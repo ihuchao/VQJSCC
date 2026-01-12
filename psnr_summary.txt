@@ -1,0 +1,15 @@
+Dataset | Test PSNR | Train PSNR | Training time
+--------|-----------|-----------|----------------
+bonsai          | NOT FOUND | NOT FOUND | 1355.855 s
+counter         | NOT FOUND | NOT FOUND | 1532.660 s
+data_bicycle    | NOT FOUND | NOT FOUND | 2007.125 s
+data_drjohnson  | NOT FOUND | NOT FOUND | 1490.308 s
+data_treehill   | NOT FOUND | NOT FOUND | 1673.549 s
+data_truck      | NOT FOUND | NOT FOUND | 1551.987 s
+flowers         | NOT FOUND | NOT FOUND | 1708.007 s
+garden          | NOT FOUND | NOT FOUND | 2052.473 s
+kitchen         | NOT FOUND | NOT FOUND | 1753.769 s
+playroom        | NOT FOUND | NOT FOUND | 1174.754 s
+room            | NOT FOUND | NOT FOUND | 1494.761 s
+stump           | NOT FOUND | NOT FOUND | 1811.501 s
+train           | NOT FOUND | NOT FOUND | 927.497 s
